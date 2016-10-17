@@ -1,0 +1,15 @@
+
+输入：从不同报道中抽取出事件发生的时间、地点、结果
+		等侧面信息后构成的事件侧面对象集合E
+──initialize E’= null, i=0;
+──for(event i in E){
+Initialize j=i+1;
+If (event i and event j represents the same info){
+1: update event i and event j time area;
+2: update event i and event j location area;
+3: sort event i and event j by event time;
+4: update E;
+}else{
+	Add event j to E’
+}
+	输出：合并同一事件后的事件对象集合E’。

@@ -1,0 +1,100 @@
+◊Û≤‡ ‰»Î£∫
+{
+    "entity_types": [
+        {
+            "type": "B_Person",
+            "labels": [ "B_Person", "B_Per" ],
+            "bgColor": "#7fa2ff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "I_Person",
+            "labels": [ "I_Person", "I_Per" ],
+            "bgColor": "#7fa2ff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "E_Person",
+            "labels": [ "E_Person", "E_Per" ],
+            "bgColor": "#7fa2ff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "Person",
+            "labels": [ "Person", "Per" ],
+            "bgColor": "#7fa2ff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "B_Location",
+            "labels": [ "B_Location", "B_Loc" ],
+            "bgColor": "#7fa2ff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "I_Location",
+            "labels": [ "I_Location", "I_Loc" ],
+            "bgColor": "#95dfff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "E_Location",
+            "labels": [ "E_Location", "E_Loc" ],
+            "bgColor": "#95dfff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "Location",
+            "labels": [ "Location", "Loc" ],
+            "bgColor": "#95dfff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "B_Organization",
+            "labels": [ "B_Organization", "B_Org" ],
+            "bgColor": "#95dfff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "I_Organization",
+            "labels": [ "I_Organization", "I_Org" ],
+            "bgColor": "#ccadf6",
+            "borderColor": "darken"
+        },
+        {
+            "type": "E_Organization",
+            "labels": [ "E_Organization", "E_Org" ],
+            "bgColor": "#ccadf6",
+            "borderColor": "darken"
+        }
+    ]
+
+}
+
+”“≤‡ ‰»Î£∫
+{
+    "text": "Lukqun is in Turpan prefecture, about 176 miles southeast of Urumqi, the capital of Xinjiang",
+    "entities": [
+        [
+            "T1",
+            "Person",
+            [ [ 0, 6 ] ]
+        ],
+        [
+            "T2",
+            "Location",
+            [ [ 13, 19 ] ]
+        ],
+        [
+            "T3",
+            "Location",
+            [ [ 61, 67] ]
+        ],
+        [
+            "T4",
+            "Location",
+            [ [ 84, 92] ]
+        ]
+    ]
+
+}

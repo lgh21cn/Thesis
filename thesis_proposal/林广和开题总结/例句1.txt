@@ -1,0 +1,74 @@
+
+◊Û≤‡ ‰»Î£∫{
+    "entity_types": [
+        {
+            "type": "B_Person",
+            "labels": [ "B_Person", "B_Per" ],
+            "bgColor": "#7fa2ff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "I_Person",
+            "labels": [ "I_Person", "I_Per" ],
+            "bgColor": "#7fa2ff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "E_Person",
+            "labels": [ "E_Person", "E_Per" ],
+            "bgColor": "#7fa2ff",
+            "borderColor": "darken"
+        },
+        {
+            "type": "B_Organization",
+            "labels": [ "B_Organization", "B_Org" ],
+            "bgColor": "#ccadf6",
+            "borderColor": "darken"
+        },
+        {
+            "type": "I_Organization",
+            "labels": [ "I_Organization", "I_Org" ],
+            "bgColor": "#ccadf6",
+            "borderColor": "darken"
+        },
+        {
+            "type": "E_Organization",
+            "labels": [ "E_Organization", "E_Org" ],
+            "bgColor": "#ccadf6",
+            "borderColor": "darken"
+        }
+    ]
+
+}
+”“≤‡ ‰»Î£∫
+{
+    "text": "Dilxat Raxit, a Sweden-based spokesman for the World Uyghur Congress, said in a phone interview that",
+    "entities": [
+        [
+            "T1",
+            "B_Person",
+            [ [ 0, 6 ] ]
+        ],
+        [
+            "T2",
+            "E_Person",
+            [ [ 7, 12 ] ]
+        ],
+        [
+            "T3",
+            "B_Organization",
+            [ [ 47, 52] ]
+        ],
+        [
+            "T4",
+            "I_Organization",
+            [ [ 53, 59] ]
+        ],
+        [
+            "T5",
+            "E_Organization",
+            [ [ 60, 68] ]
+        ]
+    ]
+
+}
